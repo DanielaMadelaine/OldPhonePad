@@ -10,3 +10,4 @@ in succession will return‘B’.
 “#” will always be included at the end of every input.
 if your input contains “*” means that it has to delete the last letter and delete all the similiar letter in the output before *.
 it is contemplated if there is an space in the input. Build with C#
+
